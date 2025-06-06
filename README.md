@@ -3,4 +3,4 @@ This is where i started my portfolio building my Data Analysis Class with DSA
 
 I have leanrt so far MS Excel, my SQL and now Portforlio Building 
 
-For my biodata [Download Here](https:www.edumess.com)
+For my biodata [Download Here](https://edumess.com/sign-in/?lang=english)
